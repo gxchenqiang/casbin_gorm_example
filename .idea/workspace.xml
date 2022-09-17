@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e6f31f0e-d28b-4419-9db0-e53dcd70f77f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file://$USER_HOME$/go/go1.16" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../casbin_RBAC_ABAC/RBAC/rbac_model.conf" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/go/pkg/mod/github.com/casbin/casbin/v2@v2.37.4/enforcer_synced.go" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../casbin_RBAC_ABAC/RBAC_with_domain/rbac_with_domain_example.go" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../casbin_RBAC_ABAC/RBAC/rbac_example.go" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EsUSrJlCllIZhmeiQkQhdQMHug" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../casbin_RBAC_ABAC/RBAC_mixed_ABAC" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../casbin_RBAC_ABAC/RBAC_mixed_ABAC" />
+      <recent name="$PROJECT_DIR$/../casbin_RBAC_ABAC/ABAC_with_policy" />
+      <recent name="$PROJECT_DIR$/../casbin_RBAC_ABAC/ABAC" />
+      <recent name="$PROJECT_DIR$/../casbin_RBAC_ABAC/RBAC_with_domin" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build casbin-RBAC-ABAC/RBAC_mixed_ABAC">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="casbin_RBAC_ABAC" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="casbin-RBAC-ABAC" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build casbin-RBAC-ABAC/ABAC" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="casbin_RBAC_ABAC" />
+      <working_directory value="$PROJECT_DIR$/../casbin_RBAC_ABAC" />
+      <kind value="PACKAGE" />
+      <package value="casbin-RBAC-ABAC/ABAC" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/../casbin_RBAC_ABAC/ABAC/abac_example.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build casbin-RBAC-ABAC/ABAC_with_policy" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="casbin_RBAC_ABAC" />
+      <working_directory value="$PROJECT_DIR$/../casbin_RBAC_ABAC" />
+      <kind value="PACKAGE" />
+      <package value="casbin-RBAC-ABAC/ABAC_with_policy" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/../casbin_RBAC_ABAC/ABAC_with_policy/abac_with_policy_example.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build casbin-RBAC-ABAC/RBAC" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="casbin_RBAC_ABAC" />
+      <working_directory value="$PROJECT_DIR$/../casbin_RBAC_ABAC" />
+      <kind value="PACKAGE" />
+      <package value="casbin-RBAC-ABAC/RBAC" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/../casbin_RBAC_ABAC/RBAC/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build casbin-RBAC-ABAC/RBAC_mixed_ABAC" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="casbin_RBAC_ABAC" />
+      <working_directory value="$PROJECT_DIR$/../casbin_RBAC_ABAC" />
+      <kind value="PACKAGE" />
+      <package value="casbin-RBAC-ABAC/RBAC_mixed_ABAC" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/../casbin_RBAC_ABAC/RBAC_mixed_ABAC/rbac_mixed_abac_example.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build casbin-RBAC-ABAC/RBAC_with_domain" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="casbin_RBAC_ABAC" />
+      <working_directory value="$PROJECT_DIR$/../casbin_RBAC_ABAC" />
+      <kind value="PACKAGE" />
+      <package value="casbin-RBAC-ABAC/RBAC_with_domain" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/../casbin_RBAC_ABAC/RBAC_with_domain/rbac_with_domain_example.go" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="casbin_RBAC_ABAC" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="DIRECTORY" />
+      <package value="casbin-RBAC-ABAC" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build casbin-RBAC-ABAC/RBAC_mixed_ABAC" />
+        <item itemvalue="Go Build.go build casbin-RBAC-ABAC/ABAC_with_policy" />
+        <item itemvalue="Go Build.go build casbin-RBAC-ABAC/ABAC" />
+        <item itemvalue="Go Build.go build casbin-RBAC-ABAC/RBAC_with_domain" />
+        <item itemvalue="Go Build.go build casbin-RBAC-ABAC/RBAC" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+</project>
