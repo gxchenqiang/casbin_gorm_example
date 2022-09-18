@@ -1,4 +1,4 @@
-# casbin + gorm example
+# casbin + gorm example (RBAC and ABAC)
 - RBAC model
 - RBAC with domain model
 - ABAC model
